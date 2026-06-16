@@ -34,7 +34,7 @@ A web platform for managing residence-related information and workflows.
 **Frontend:** React  
 **Backend (learning):** Node.js, Express  
 **Database:** MongoDB  
-**Tools:** Git, GitHub, REST APIs, VS Code  
+**Tools:** Git, GitHub, REST APIs, Cursor, Codex  
 
 ---
 
