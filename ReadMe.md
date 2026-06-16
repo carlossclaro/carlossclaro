@@ -2,25 +2,29 @@
 
 ## 💻 Junior Software Developer
 
-Junior Software Developer with hands-on experience building web applications using JavaScript, React, and Node.js. Focused on frontend development, REST API integration, and building responsive user interfaces through project-based learning.
+Junior Software Developer with hands-on experience building web applications using JavaScript, React, and Node.js. Focused on frontend development, API integration, and building responsive user interfaces through project-based learning.
 
 ---
 
 ## 🚀 Projects
 
-### 🔗 Tapii – Link-in-Bio Web Application
-A platform that allows users to create and share customizable profile pages with multiple links.
+### 🔗 [Tapii – Link-in-Bio Web Application](https://tapii.io)
 
-- Built with React
-- Integrated REST APIs for user data and profiles
-- Focus on responsive UI and reusable components
+A web application that allows users to create and share customizable profile pages with multiple links.
 
-### 🏠 Residence Platform – Property Management Web App
-A web application for managing residence-related information and workflows.
+- Built with React using reusable components  
+- Integrated REST APIs for user data and profiles  
+- Focused on responsive UI and clean design  
 
-- Built responsive frontend using React
-- Integrated REST APIs with backend services
-- Worked with MongoDB for data storage
+---
+
+### 🏠 [Residence Platform – Property Management Web App](https://residence-platform.blumotech.com/)
+
+A web platform for managing residence-related information and workflows.
+
+- Built responsive frontend using React  
+- Integrated REST APIs for data handling  
+- Worked with MongoDB for data storage  
 
 ---
 
@@ -44,4 +48,4 @@ A web application for managing residence-related information and workflows.
 
 ## 📍 About Me
 
-I am currently focused on improving my skills in frontend development and learning backend fundamentals through real projects. I enjoy building practical applications and improving my problem-solving skills through hands-on development.
+I am currently focused on improving my frontend development skills and strengthening my understanding of backend development through real-world projects. I enjoy building practical web applications and learning by doing.
